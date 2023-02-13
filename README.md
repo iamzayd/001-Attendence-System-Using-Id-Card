@@ -1,4 +1,4 @@
-# Attendence-System-Using-Bar-Code
+# Attendence-System-Using-Bar-Code-And-QR-Code
 
 This project is for attendence system uses students ID card in which there is barcode behind the ID card which once scanned to the camera take a unique ID called as "PRN" 
 and saves it in a Dataframe and later is saved to a csv file so teachers can have an additional copy of the csv file in their desktop.
